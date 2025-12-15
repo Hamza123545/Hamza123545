@@ -2,11 +2,11 @@
 
 <br>
 
-<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 60px; margin: 0; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 85px; margin: 0; font-weight: 800; font-family: 'Poppins', 'Arial', sans-serif; letter-spacing: -1px;">
 Muhammad Hamza
 </h1>
 
-<p style="font-size: 18px; color: #667eea; font-weight: 600; margin: 10px 0; letter-spacing: 0.5px;">
+<p style="font-size: 18px; color: #667eea; font-weight: 600; margin: 15px 0; letter-spacing: 1px;">
 CLOUD-NATIVE DEVELOPER & AI ENGINEER
 </p>
 

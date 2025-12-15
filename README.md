@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Muhammad+Hamza;Cloud-Native+Developer;AI+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Hamza&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=9CA3AF&center=true&vCenter=true&repeat=true&width=700&lines=Building+Scalable+Cloud+Applications;Crafting+Intelligent+AI+Solutions;Transforming+Ideas+into+Reality" alt="Subtitle" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&lines=Cloud-Native+Developer+%7C+AI+Engineer;Building+Scalable+Cloud+Applications;Crafting+Intelligent+AI+Solutions;Full+Stack+Developer" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-507761274)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hswati517@gmail.com)
@@ -21,13 +19,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 👨‍💻 About Me
+## About Me
 
-Full Stack Cloud-Native Developer and AI Engineer from **Pakistan**, specializing in building **scalable**, **intelligent** applications that leverage modern cloud infrastructure and artificial intelligence.
+Full Stack Cloud-Native Developer and AI Engineer from Pakistan, specializing in building scalable, intelligent applications that leverage modern cloud infrastructure and artificial intelligence.
 
 <br>
 
-## 🎯 Current Focus
+## Current Focus
 
 **AI-Powered Cloud Applications**  
 Building intelligent systems with cloud-native architecture
@@ -45,85 +43,120 @@ Exploring AI at the edge with real-world applications
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Core Expertise
+<br>
+
+## Core Expertise
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**☁️ Cloud-Native Development**
-
-- Serverless architecture design
-- Microservices implementation
-- API-first development
-- Event-driven systems
-
-<br>
-
-**💻 Full-Stack Engineering**
-
-- Next.js 16 App Router
-- FastAPI async patterns
-- PostgreSQL optimization
-- Real-time applications
-
+<td width="25%" align="center" valign="top">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br><br>
+<strong>Cloud-Native Development</strong>
+<br><br>
+<sub>
+• Serverless architecture<br>
+• Microservices design<br>
+• API-first development<br>
+• Event-driven systems
+</sub>
 </td>
-<td width="50%" valign="top">
 
-**🤖 AI/ML Integration**
-
-- OpenAI Agents SDK
-- LangChain orchestration
-- Model Context Protocol
-- NLP solutions
-
-<br>
-
-**⚙️ DevOps & Automation**
-
-- Docker containerization
-- CI/CD pipelines
-- GitHub Actions
-- Infrastructure as Code
-
+<td width="25%" align="center" valign="top">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><br>
+<strong>Full-Stack Engineering</strong>
+<br><br>
+<sub>
+• Next.js 16 App Router<br>
+• FastAPI async patterns<br>
+• PostgreSQL optimization<br>
+• Real-time applications
+</sub>
 </td>
-</tr>
-</table>
 
-## 🤝 Open To
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-**💼 Freelance Projects**
-
-Available for contract work
-
+<td width="25%" align="center" valign="top">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><br>
+<strong>AI/ML Integration</strong>
+<br><br>
+<sub>
+• OpenAI Agents SDK<br>
+• LangChain orchestration<br>
+• Model Context Protocol<br>
+• NLP solutions
+</sub>
 </td>
-<td align="center" width="33%">
 
-**🤝 Technical Collaborations**
-
-Open to partnerships
-
-</td>
-<td align="center" width="34%">
-
-**🌟 Open Source**
-
-Active contributor
-
+<td width="25%" align="center" valign="top">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><br>
+<strong>DevOps & Automation</strong>
+<br><br>
+<sub>
+• Docker containerization<br>
+• CI/CD pipelines<br>
+• GitHub Actions<br>
+• Infrastructure as Code
+</sub>
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+<br>
+
+## Open For Opportunities
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/3d-fluency/94/briefcase.png" width="60"/>
+<br><br>
+<strong>Freelance Projects</strong>
+<br><br>
+<sub>Available for contract work and consulting</sub>
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="60"/>
+<br><br>
+<strong>Technical Collaborations</strong>
+<br><br>
+<sub>Open to partnerships and joint ventures</sub>
+</td>
+
+<td width="34%" align="center">
+<img src="https://img.icons8.com/3d-fluency/94/github.png" width="60"/>
+<br><br>
+<strong>Open Source</strong>
+<br><br>
+<sub>Active contributor to the community</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## Tech Stack
 
 <details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
+<summary><b>Languages & Frameworks</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -138,7 +171,7 @@ Active contributor
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<summary><b>Cloud & Infrastructure</b></summary>
 <br>
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -151,7 +184,7 @@ Active contributor
 </details>
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>AI & Machine Learning</b></summary>
 <br>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -162,9 +195,13 @@ Active contributor
 
 </details>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+<br>
+
+## Featured Projects
 
 <div align="center">
 
@@ -172,7 +209,7 @@ Active contributor
 <tr>
 <td width="50%">
 
-<h3 align="center">🎯 Todo Five Phases</h3>
+<h3 align="center">Todo Five Phases</h3>
 
 <div align="center">
 
@@ -190,7 +227,7 @@ Full-stack cloud-native application with AI chatbot integration, demonstrating m
 </td>
 <td width="50%">
 
-<h3 align="center">📚 Physical AI Book Platform</h3>
+<h3 align="center">Physical AI Book Platform</h3>
 
 <div align="center">
 
@@ -211,7 +248,7 @@ Modern documentation platform for Physical AI concepts with responsive design an
 <tr>
 <td width="50%">
 
-<h3 align="center">🔐 Better Auth + FastAPI</h3>
+<h3 align="center">Better Auth + FastAPI</h3>
 
 <div align="center">
 
@@ -228,7 +265,7 @@ Complete authentication solution integrating Better Auth with Python FastAPI bac
 </td>
 <td width="50%">
 
-<h3 align="center">🔒 Secure Encryption System</h3>
+<h3 align="center">Secure Encryption System</h3>
 
 <div align="center">
 
@@ -253,7 +290,7 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 <div align="center">
 
-**🤖 AI Agent Portfolio**
+**AI Agent Portfolio**
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
@@ -264,9 +301,13 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+<br>
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -298,9 +339,13 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Let's Connect
+<br>
+
+## Let's Connect
 
 <div align="center">
 
@@ -341,12 +386,6 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 </tr>
 </table>
 
-<br>
-
-<img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Collaborations-Open-success?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_Source-Contributing-success?style=for-the-badge&logo=github&logoColor=white"/>
-
 </div>
 
 <br>
@@ -359,6 +398,6 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 <br>
 
-**✨ Building scalable cloud-native solutions powered by artificial intelligence ✨**
+**Building scalable cloud-native solutions powered by artificial intelligence**
 
 </div>

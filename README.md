@@ -2,11 +2,13 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=667eea&text=Muhammad%20Hamza&fontSize=70&fontWeight=800&fontColor=ffffff&height=200&width=800&animation=fadeIn&reversal=false&textBg=false&desc=Cloud-Native%20Developer%20%7C%20AI%20Engineer&descSize=20&descColor=764ba2" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=667eea&height=150&section=header&text=Muhammad%20Hamza&fontSize=65&fontColor=ffffff&fontWeight=800" />
 
-<br>
+<p style="color: #764ba2; font-size: 16px; font-weight: 600; letter-spacing: 1px; margin: 10px 0;">
+CLOUD-NATIVE DEVELOPER & AI ENGINEER
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=Building+Intelligent+Cloud+Systems;Architecting+Scalable+Solutions;Creating+AI-Powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=Building+Intelligent+Cloud+Systems;Architecting+Scalable+Solutions;Creating+AI-Powered+Applications" alt="Typing SVG" />
 
 <br><br>
 

@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Muhammad%20Hamza&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud-Native%20Developer%20|%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=MUHAMMAD%20HAMZA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Cloud-Native%20Developer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=75&descAlign=50&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
-
-### Building Intelligent Cloud Solutions with Modern Technology
 
 <br>
 
@@ -27,24 +25,102 @@
 
 Full Stack Cloud-Native Developer and AI Engineer from **Pakistan**, specializing in building **scalable**, **intelligent** applications that leverage modern cloud infrastructure and artificial intelligence.
 
-```yaml
-current_focus:
-  - AI-powered cloud applications
-  - Serverless architecture & microservices
-  - AI agent development & orchestration
-  - Physical AI & edge computing
+<br>
 
-expertise:
-  - Cloud-native development
-  - Full-stack engineering
-  - AI/ML integration
-  - DevOps & automation
+### 🎯 Current Focus
 
-open_to:
-  - Freelance projects
-  - Technical collaborations
-  - Open source contributions
-```
+<table>
+<tr>
+<td>
+
+- 🤖 **AI-Powered Cloud Applications**
+  <br>Building intelligent systems with cloud-native architecture
+  
+- ☁️ **Serverless Architecture & Microservices**
+  <br>Designing scalable, event-driven distributed systems
+  
+- 🔧 **AI Agent Development & Orchestration**
+  <br>Creating autonomous agents with LangChain and OpenAI SDK
+  
+- 🌐 **Physical AI & Edge Computing**
+  <br>Exploring AI at the edge with real-world applications
+
+</td>
+</tr>
+</table>
+
+### 💡 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+**Cloud-Native Development**
+- Serverless architecture design
+- Microservices implementation
+- API-first development
+- Event-driven systems
+
+</td>
+<td width="50%">
+
+**Full-Stack Engineering**
+- Next.js 16 App Router
+- FastAPI async patterns
+- PostgreSQL optimization
+- Real-time applications
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**AI/ML Integration**
+- OpenAI Agents SDK
+- LangChain orchestration
+- Model Context Protocol
+- NLP solutions
+
+</td>
+<td width="50%">
+
+**DevOps & Automation**
+- Docker containerization
+- CI/CD pipelines
+- GitHub Actions
+- Infrastructure as Code
+
+</td>
+</tr>
+</table>
+
+### 🤝 Open To
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+💼 **Freelance Projects**
+
+Available for contract work
+
+</td>
+<td align="center" width="33%">
+
+🤝 **Technical Collaborations**
+
+Open to partnerships
+
+</td>
+<td align="center" width="34%">
+
+🌟 **Open Source Contributions**
+
+Active contributor
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -205,10 +281,10 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 <div align="center">
 
 <a href="https://github.com/Hamza123545">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza123545&show_icons=true&theme=react&bg_color=20232a&title_color=61dafb&icon_color=61dafb&text_color=ffffff&border_color=61dafb&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza123545&show_icons=true&theme=react&bg_color=1a1b27&title_color=61dafb&icon_color=61dafb&text_color=ffffff&border_color=61dafb&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Hamza123545">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza123545&theme=react&background=20232a&border=61dafb&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza123545&theme=react&background=1a1b27&border=61dafb&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 
 </div>
@@ -216,10 +292,10 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 <div align="center">
 
 <a href="https://github.com/Hamza123545">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza123545&layout=compact&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&border_color=61dafb&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza123545&layout=compact&theme=react&bg_color=1a1b27&title_color=61dafb&text_color=ffffff&border_color=61dafb&langs_count=8&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Hamza123545">
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hamza123545&limit=5&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&border_color=61dafb"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hamza123545&limit=5&theme=react&bg_color=1a1b27&title_color=61dafb&text_color=ffffff&border_color=61dafb&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -228,7 +304,7 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza123545&custom_title=Contribution%20Graph&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area_color=61dafb&area=true&border_color=61dafb" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza123545&custom_title=Contribution%20Graph&bg_color=1a1b27&color=61dafb&line=61dafb&point=ffffff&area_color=61dafb&area=true&height=300&cache_seconds=1800" width="100%"/>
 
 </div>
 
@@ -239,53 +315,6 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 <img src="https://github-profile-trophy.vercel.app/?username=Hamza123545&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
 
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Core Expertise
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Cloud-Native Development
-
-- Serverless architecture design
-- Microservices implementation
-- API-first development
-- Event-driven systems
-- CI/CD automation
-- Infrastructure as Code
-
-</td>
-<td width="33%" valign="top">
-
-### AI Engineering
-
-- AI agent development
-- OpenAI Agents SDK
-- LangChain integration
-- Model Context Protocol
-- Natural language processing
-- Conversational AI systems
-
-</td>
-<td width="33%" valign="top">
-
-### Full-Stack Development
-
-- Next.js 16 App Router
-- React Server Components
-- FastAPI async patterns
-- PostgreSQL optimization
-- Better Auth integration
-- Real-time applications
-
-</td>
-</tr>
-</table>
 
 <br>
 

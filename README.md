@@ -1,16 +1,14 @@
 <div align="center">
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=667eea&height=150&section=header&text=Muhammad%20Hamza&fontSize=65&fontColor=ffffff&fontWeight=800" />
+# Muhammad Hamza
 
-<p style="color: #764ba2; font-size: 16px; font-weight: 600; letter-spacing: 1px; margin: 10px 0;">
-CLOUD-NATIVE DEVELOPER & AI ENGINEER
-</p>
+### Cloud-Native Developer & AI Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=Building+Intelligent+Cloud+Systems;Architecting+Scalable+Solutions;Creating+AI-Powered+Applications" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-507761274)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hswati517@gmail.com)

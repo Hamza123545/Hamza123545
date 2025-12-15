@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=MUHAMMAD%20HAMZA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Cloud-Native%20Developer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=75&descAlign=50&descSize=18" width="100%"/>
+# Muhammad Hamza
 
-</div>
-
-<div align="center">
+**Cloud-Native Developer | AI Engineer | Full Stack Developer**
 
 <br>
 
@@ -13,78 +11,72 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-protfolio-blush.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamzaswati782)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 </div>
 
-<br>
+---
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
+## About Me
 
-Full Stack Cloud-Native Developer and AI Engineer from **Pakistan**, specializing in building **scalable**, **intelligent** applications that leverage modern cloud infrastructure and artificial intelligence.
+Full Stack Cloud-Native Developer and AI Engineer from Pakistan, specializing in building scalable, intelligent applications that leverage modern cloud infrastructure and artificial intelligence.
 
 <br>
 
-### 🎯 Current Focus
+## Current Focus
+
+**AI-Powered Cloud Applications**  
+Building intelligent systems with cloud-native architecture
+
+**Serverless Architecture & Microservices**  
+Designing scalable, event-driven distributed systems
+
+**AI Agent Development & Orchestration**  
+Creating autonomous agents with LangChain and OpenAI SDK
+
+**Physical AI & Edge Computing**  
+Exploring AI at the edge with real-world applications
+
+<br clear="right"/>
+
+---
+
+## Core Expertise
 
 <table>
 <tr>
-<td>
-
-- 🤖 **AI-Powered Cloud Applications**
-  <br>Building intelligent systems with cloud-native architecture
-  
-- ☁️ **Serverless Architecture & Microservices**
-  <br>Designing scalable, event-driven distributed systems
-  
-- 🔧 **AI Agent Development & Orchestration**
-  <br>Creating autonomous agents with LangChain and OpenAI SDK
-  
-- 🌐 **Physical AI & Edge Computing**
-  <br>Exploring AI at the edge with real-world applications
-
-</td>
-</tr>
-</table>
-
-### 💡 Core Expertise
-
-<table>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Cloud-Native Development**
+
 - Serverless architecture design
 - Microservices implementation
 - API-first development
 - Event-driven systems
 
-</td>
-<td width="50%">
+<br>
 
 **Full-Stack Engineering**
+
 - Next.js 16 App Router
 - FastAPI async patterns
 - PostgreSQL optimization
 - Real-time applications
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **AI/ML Integration**
+
 - OpenAI Agents SDK
 - LangChain orchestration
 - Model Context Protocol
 - NLP solutions
 
-</td>
-<td width="50%">
+<br>
 
 **DevOps & Automation**
+
 - Docker containerization
 - CI/CD pipelines
 - GitHub Actions
@@ -94,39 +86,17 @@ Full Stack Cloud-Native Developer and AI Engineer from **Pakistan**, specializin
 </tr>
 </table>
 
-### 🤝 Open To
+---
 
-<table>
-<tr>
-<td align="center" width="33%">
+## Open To
 
-💼 **Freelance Projects**
+- **Freelance Projects** - Available for contract work
+- **Technical Collaborations** - Open to partnerships
+- **Open Source Contributions** - Active contributor
 
-Available for contract work
+---
 
-</td>
-<td align="center" width="33%">
-
-🤝 **Technical Collaborations**
-
-Open to partnerships
-
-</td>
-<td align="center" width="34%">
-
-🌟 **Open Source Contributions**
-
-Active contributor
-
-</td>
-</tr>
-</table>
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Languages & Frameworks</b></summary>
@@ -168,11 +138,9 @@ Active contributor
 
 </details>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -257,9 +225,7 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 </div>
 
-<br>
-
-### AI Agent Portfolio
+**AI Agent Portfolio**
 
 <div align="center">
 
@@ -272,19 +238,17 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/Hamza123545">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza123545&show_icons=true&theme=react&bg_color=1a1b27&title_color=61dafb&icon_color=61dafb&text_color=ffffff&border_color=61dafb&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza123545&show_icons=true&theme=react&bg_color=1a1b27&title_color=61dafb&icon_color=61dafb&text_color=ffffff&border_color=61dafb&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Hamza123545">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza123545&theme=react&background=1a1b27&border=61dafb&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Hamza123545&theme=react&background=1a1b27&border=61dafb&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb"/>
 </a>
 
 </div>
@@ -292,10 +256,10 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 <div align="center">
 
 <a href="https://github.com/Hamza123545">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza123545&layout=compact&theme=react&bg_color=1a1b27&title_color=61dafb&text_color=ffffff&border_color=61dafb&langs_count=8&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza123545&layout=compact&theme=react&bg_color=1a1b27&title_color=61dafb&text_color=ffffff&border_color=61dafb&langs_count=8"/>
 </a>
 <a href="https://github.com/Hamza123545">
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hamza123545&limit=5&theme=react&bg_color=1a1b27&title_color=61dafb&text_color=ffffff&border_color=61dafb&cache_seconds=1800"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hamza123545&limit=5&theme=react&bg_color=1a1b27&title_color=61dafb&text_color=ffffff&border_color=61dafb"/>
 </a>
 
 </div>
@@ -304,23 +268,13 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza123545&custom_title=Contribution%20Graph&bg_color=1a1b27&color=61dafb&line=61dafb&point=ffffff&area_color=61dafb&area=true&height=300&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza123545&custom_title=Contribution%20Graph&bg_color=1a1b27&color=61dafb&line=61dafb&point=ffffff&area_color=61dafb&area=true&height=300" width="100%"/>
 
 </div>
 
-<br>
+---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hamza123545&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="30"> Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -363,24 +317,10 @@ Production-ready encryption/decryption system with AES-256 and modern web interf
 
 <br>
 
-### Availability
-
-<img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Collaborations-Open-success?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open_Source-Contributing-success?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamza123545&label=Profile%20Views&color=667eea&style=for-the-badge)
 
-**Building scalable cloud-native solutions powered by artificial intelligence**
+---
+
+*Building scalable cloud-native solutions powered by artificial intelligence*
 
 </div>

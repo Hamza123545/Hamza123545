@@ -2,13 +2,21 @@
 
 <br>
 
-<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 85px; margin: 0; font-weight: 800; font-family: 'Poppins', 'Arial', sans-serif; letter-spacing: -1px;">
+<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 40px 20px; border-radius: 15px; border: 2px solid rgba(102, 126, 234, 0.3); backdrop-filter: blur(10px);">
+
+<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 90px; margin: 0; font-weight: 900; font-family: 'Poppins', 'Segoe UI', sans-serif; letter-spacing: -2px; line-height: 1;">
 Muhammad Hamza
 </h1>
 
-<p style="font-size: 18px; color: #667eea; font-weight: 600; margin: 15px 0; letter-spacing: 1px;">
-CLOUD-NATIVE DEVELOPER & AI ENGINEER
+<p style="font-size: 16px; color: #667eea; font-weight: 700; margin: 20px 0 5px 0; letter-spacing: 2px; text-transform: uppercase;">
+Cloud-Native Developer & AI Engineer
 </p>
+
+<div style="height: 3px; width: 60px; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); margin: 15px auto; border-radius: 2px;"></div>
+
+</div>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=Building+Intelligent+Cloud+Systems;Architecting+Scalable+Solutions;Creating+AI-Powered+Applications" alt="Typing SVG" />
 

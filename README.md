@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Hamza&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<br>
+
+<h1>
+  <a href="https://github.com/Hamza123545">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=48&duration=1&pause=999999&color=667EEA&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Muhammad+Hamza" alt="Muhammad Hamza" />
+  </a>
+</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&lines=Cloud-Native+Developer+%7C+AI+Engineer;Building+Scalable+Cloud+Applications;Crafting+Intelligent+AI+Solutions;Full+Stack+Developer" alt="Typing SVG" />
 

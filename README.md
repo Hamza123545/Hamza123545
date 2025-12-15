@@ -1,14 +1,44 @@
 <div align="center">
 
 <br>
+<div style="text-align: center; padding: 30px; background-color: #f7f7f7; border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); max-width: 600px; margin: 0 auto; font-family: 'Poppins', sans-serif;">
 
-<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 60px; margin: 0; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-Muhammad Hamza
-</h1>
+    <h1 style="
+        /* Deep, professional gradient for high contrast and impact */
+        background: linear-gradient(135deg, #1f42a1 0%, #764ba2 100%); 
+        -webkit-background-clip: text; 
+        -webkit-text-fill-color: transparent; 
+        background-clip: text; 
+        
+        /* Large, bold, and commanding typography */
+        font-size: 72px; 
+        margin: 0; 
+        font-weight: 900; /* Extra bold */
+        line-height: 1.1;
+        font-family: 'Poppins', sans-serif; 
+        letter-spacing: -1px; /* Tighter spacing for massive text */
+        text-shadow: 0 2px 8px rgba(118, 75, 162, 0.25); /* More pronounced, soft shadow */
+    ">
+        Muhammad Hamza
+    </h1>
 
-<p style="font-size: 18px; color: #667eea; font-weight: 600; margin: 10px 0; letter-spacing: 0.5px;">
-CLOUD-NATIVE DEVELOPER & AI ENGINEER
-</p>
+    <div style="width: 80px; height: 5px; background: linear-gradient(90deg, #1f42a1 0%, #764ba2 100%); margin: 15px auto 20px auto; border-radius: 3px;"></div>
+
+    <p style="
+        /* Role styling: clean, authoritative, and perfectly centered */
+        font-size: 22px; 
+        color: #1f42a1; 
+        font-weight: 700; 
+        margin: 0; 
+        letter-spacing: 3px; 
+        text-transform: uppercase; 
+        opacity: 0.95;
+        font-family: 'Roboto', sans-serif;
+    ">
+        CLOUD-NATIVE DEVELOPER & AI ENGINEER
+    </p>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=Building+Intelligent+Cloud+Systems;Architecting+Scalable+Solutions;Creating+AI-Powered+Applications" alt="Typing SVG" />
 

@@ -2,9 +2,15 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=667eea&height=130&section=header&fontSize=50&fontColor=ffffff&fontAlignY=50&text=Muhammad%20Hamza&desc=Cloud-Native%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=75" />
+<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 60px; margin: 0; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+Muhammad Hamza
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&lines=Building+Scalable+Cloud+Applications;Crafting+Intelligent+AI+Solutions;Full+Stack+Developer;AI+Agent+Architect" alt="Typing SVG" />
+<p style="font-size: 18px; color: #667eea; font-weight: 600; margin: 10px 0; letter-spacing: 0.5px;">
+CLOUD-NATIVE DEVELOPER & AI ENGINEER
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=Building+Intelligent+Cloud+Systems;Architecting+Scalable+Solutions;Creating+AI-Powered+Applications" alt="Typing SVG" />
 
 <br><br>
 

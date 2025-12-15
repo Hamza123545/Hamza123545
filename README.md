@@ -2,13 +2,9 @@
 
 <br>
 
-<h1>
-  <a href="https://github.com/Hamza123545">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=48&duration=1&pause=999999&color=667EEA&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Muhammad+Hamza" alt="Muhammad Hamza" />
-  </a>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=667eea&height=130&section=header&fontSize=50&fontColor=ffffff&fontAlignY=50&text=Muhammad%20Hamza&desc=Cloud-Native%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=75" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&lines=Cloud-Native+Developer+%7C+AI+Engineer;Building+Scalable+Cloud+Applications;Crafting+Intelligent+AI+Solutions;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&lines=Building+Scalable+Cloud+Applications;Crafting+Intelligent+AI+Solutions;Full+Stack+Developer;AI+Agent+Architect" alt="Typing SVG" />
 
 <br><br>
 

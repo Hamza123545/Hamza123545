@@ -2,19 +2,7 @@
 
 <br>
 
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 40px 20px; border-radius: 15px; border: 2px solid rgba(102, 126, 234, 0.3); backdrop-filter: blur(10px);">
-
-<h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 90px; margin: 0; font-weight: 900; font-family: 'Poppins', 'Segoe UI', sans-serif; letter-spacing: -2px; line-height: 1;">
-Muhammad Hamza
-</h1>
-
-<p style="font-size: 16px; color: #667eea; font-weight: 700; margin: 20px 0 5px 0; letter-spacing: 2px; text-transform: uppercase;">
-Cloud-Native Developer & AI Engineer
-</p>
-
-<div style="height: 3px; width: 60px; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); margin: 15px auto; border-radius: 2px;"></div>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=667eea&text=Muhammad%20Hamza&fontSize=70&fontWeight=800&fontColor=ffffff&height=200&width=800&animation=fadeIn&reversal=false&textBg=false&desc=Cloud-Native%20Developer%20%7C%20AI%20Engineer&descSize=20&descColor=764ba2" />
 
 <br>
 
